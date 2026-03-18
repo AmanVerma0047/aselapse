@@ -3,7 +3,7 @@
     "displayName": "Aselapse",
     "description": "Creates timelapses of the pixel-art drawing process",
     "version": "0.4.2.2",
-    "autor": {
+    "author": {
         "name": "Zarstensen",
         "email": "4lo9d87b5@mozmail.com",
         "url": "https://github.com/karstensensensen"
@@ -11,7 +11,7 @@
     "contributors": [],
     "publisher": "Zarstensen",
     "license": "CC-BY-4.0",
-    "categoreis": [
+    "categories": [
         "Scripts"
     ],
     "contributes": {
